@@ -1,12 +1,9 @@
 
 TITLE: 
-Moon - 100% Fully Responsive Multipurpose HTML5 Bootstrap 4 Template
+Fong Po Lok Portfolio
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
-
-Websites: https://gettemplates.co http://freehtml5.co/
-
+DESIGNED & DEVELOPED by Edward Fong
 
 CREDITS:
 
@@ -31,6 +28,4 @@ http://imakewebthings.com/waypoints/
 jQuery countTo
 https://github.com/mhuggins/jquery-countTo
 
-Demo Images:
-http://unsplash.com
 
