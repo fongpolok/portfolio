@@ -234,8 +234,8 @@ a {
 
 .jumbotron {
   background-color: #fff;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 110px;
+  padding-bottom: 110px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0% 0%;
@@ -246,7 +246,7 @@ a {
   margin-bottom: 0;
   overflow: hidden;
   }
-  @media (min-width: 720px) {
+  @media (min-width: 960px) {
     .jumbotron {
       min-height: 50vh; } }
   .jumbotron .container {
