@@ -286,7 +286,8 @@ a {
 .grid-item {
   margin-bottom: 20px;
   border-radius: 5px;
-  overflow: hidden; }
+  overflow: hidden;
+  position: fixed }
   .grid-item:hover .grid-info {
     top: 50%;
     opacity: 1; }
@@ -300,12 +301,6 @@ a {
 
 .grid-item-wrapper:hover:before {
   opacity: 1; }
-
-.grid-item-new {
-  transition: all 0.3s ease-in-out;
-  background-color: #f7f8f9;
-  border-radius: 3px;
-  overflow: hidden; }
 
 .grid-info {
   position: absolute;
