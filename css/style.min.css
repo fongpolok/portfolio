@@ -286,8 +286,7 @@ a {
 .grid-item {
   margin-bottom: 20px;
   border-radius: 5px;
-  overflow: hidden;
-  position: fixed }
+  overflow: hidden; }
   .grid-item:hover .grid-info {
     top: 50%;
     opacity: 1; }
