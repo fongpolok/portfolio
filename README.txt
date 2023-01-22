@@ -6,8 +6,6 @@ AUTHOR:
 Edward Fong
 
 
-CREDITS:
-
 Bootstrap
 http://getbootstrap.com/
 
